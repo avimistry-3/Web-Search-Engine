@@ -1,3 +1,3 @@
-#Web Search Engine
-##How to run
-1. Renmae the path of html files in HtmltoText.java and finally run JavaSearchEngine.java
+# Web Search Engine
+## How to run:
+Change the path of html files in HTMLToText.java in src folder and finally run JavaSearchEngine.java
